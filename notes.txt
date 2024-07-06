@@ -8,4 +8,4 @@ git push origin main -> envia los archivos de la rama main a repositorio remoto 
 git add . -> agregar antes de commit
 git commit -m "titulo" -> agregar cambios
 
-iniciar git init
+iniv
