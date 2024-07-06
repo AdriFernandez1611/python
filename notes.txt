@@ -1,0 +1,11 @@
+git init -> inicia el repositorio
+git status -> stados de archivos modificado
+git branch -> muestra las ramas actuales y crea nuevas ramas
+git checkout (nombre de la rama ) -> cambio de la rama
+git checkout -b (nombre de la rama) -> crea rama y me cambia de una vez
+git merge (nombre de la rama) -> -> une los cambios entre dos ramas
+git push origin main -> envia los archivos de la rama main a repositorio remoto de git buth
+git add . -> agregar antes de commit
+git commit -m "titulo" -> agregar cambios
+
+iniciar git init
