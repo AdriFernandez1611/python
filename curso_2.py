@@ -39,3 +39,32 @@ for name in name_list:
          print (f'"{name}" es el papa')
      else:
          print (f"{name} no es papa")
+
+#funciones
+#sintaxis de una fincion en pytohn
+
+# def name function (parametros):
+#             documenta cion de la funcio
+#   codigo de ka funcion
+
+#FUNCION PARA SUMAR DOS NUMEROS
+
+def suma_dos(num_1, num_2):
+    """_esta funcion suma dos numeros enteros
+    Args:
+        num_1 (_type_): int
+        num_2 (_type_): int
+        return salida: int
+    """
+    result = num_1 = num_2
+    return result
+
+suma_dos(12, 12)
+
+def resta_dos (num_1, num_2):
+    result = num_1 - num_2
+    return result
+
+resta_dos(num_2=23, num_1=20)
+
+print 
