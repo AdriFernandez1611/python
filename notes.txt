@@ -7,5 +7,3 @@ git merge (nombre de la rama) -> -> une los cambios entre dos ramas
 git push origin main -> envia los archivos de la rama main a repositorio remoto de git buth
 git add . -> agregar antes de commit
 git commit -m "titulo" -> agregar cambios
-
-iniv

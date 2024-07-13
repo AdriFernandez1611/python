@@ -1,5 +1,3 @@
-
-
 nombre1 = input("ingresa tu nombre, jugador 1: ")
 nombre2  = input("ingresa tu nombre, jugador 2: ")
 
@@ -28,4 +26,4 @@ if (jugador1 != jugador2):
     else:
         print("Error al introducir datos. Por favor, reinicie el programa.")
 else:
-       print("Tenemos un empate")
+    print("Tenemos un empate")
