@@ -46,7 +46,7 @@
 
 # #listas, nueva estructura de datos 
 # #de izquierda a derecha comienza con 0 y de derecha a izquierda -1)
-# list_1 = ["jose", "maria", "juan", 'ruperto', 12, 14, 15, 90.2, 78.5, 1.2]
+# 
 
 # print (list_1)
 
