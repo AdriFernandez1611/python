@@ -1,11 +1,13 @@
-
+import random
+nombre2 = "la computadora"
 nombre1 = input("ingresa tu nombre, jugador 1: ")
-nombre2  = input("ingresa tu nombre, jugador 2: ")
+lista = ['piedra', 'papel', 'tijera']
+
 
 print ("¡Bienvenidos al juego de piedra, papel o tijera!")
 print ("Introduce tu opcion a jugar en minusculas y singular")
 jugador1 = input("Bien, " + nombre1 +". Escoge tu opcion a jugar: ")
-jugador2 = input("ahora, " + nombre2 + ". Escoge tu opcion a jugar: ")
+jugador2 = color_aleatorio = random.choice(lista)
 
 if (jugador1 != jugador2):
     #tijera Vs papel
